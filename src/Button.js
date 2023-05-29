@@ -1,10 +1,8 @@
 import React from 'react';
 
-const Button = ({ onClick, disabled }) => {
+const Button = ({ handleUpload }) => {
   return (
-    <button onClick={onClick} disabled={disabled}>
-      Upload
-    </button>
+    <button onClick={handleUpload} className="btn btn-success">Upload</button>
   );
 };
 
