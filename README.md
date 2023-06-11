@@ -1,2 +1,2 @@
-# The link to to the backend repo
+# The link to the backend repository
 https://github.com/mbahraoui/Plant-DiseaseDetection-Backend
